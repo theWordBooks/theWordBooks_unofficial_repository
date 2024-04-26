@@ -1,0 +1,1 @@
+	<module identifier="twstable" type="Core" abbr="theWord Stable Version" title="theWord Stable Version (Note: First time users please read the About information on the Left.)" author="Stergiou, Costas" lang="eng" url="core/twstable.twzip" descrurl="core/twstable.htm" vermajor="1534" verminor="4" verdate="2024-04-26" cur="$" dlsizekb="14400"/>	
