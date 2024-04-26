@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<modules source="theWordBooks Unofficial Repo" baseurl="https://raw.githubusercontent.com/theWordBooks/theWordBooks_unofficial_repository/blob/main/">
+<modules source="theWordBooks Unofficial Repo" baseurl="https://raw.githubusercontent.com/theWordBooks/theWordBooks_unofficial_repository/main/">
 	<module identifier="HALNor" type="Dictionaries" abbr="OpHebAnLexNorm" title="Open Hebrew Analytical Lexicon Normal Edition" author="Wong, Eliran" lang="eng" url="dictionaries/OpenHebAnLex.dct.twzip" descrurl="dictionaries/OpenHebAnLex.dct.html" vermajor="1" verminor="0" verdate="2019-03-12" dlsizekb="11717"/>
 	<module identifier="HALRe" type="Dictionaries" abbr="OpHebAnLexRes" title="Open Hebrew Analytical Lexicon Research Edition" author="Wong, Eliran" lang="eng" url="dictionaries/OpenHebAnLexResearch.dct.twzip" descrurl="dictionaries/OpenHebAnLexResearch.dct.html" vermajor="1" verminor="0" verdate="2019-03-12" dlsizekb="11723"/>
 	<module identifier="phrbyphr_1John" type="Commentaries" abbr="PhrbyPhr - 1John" title="Phrase by Phrase - 1 John" author="Jonathan Koehn" lang="eng" url="commentaries/PhrbyPhr-1John.twzip" descrurl="commentaries/PhrbyPhr-1John.html" vermajor="1" verminor="0" verdate="2020-10-02" cur="$" dlsizekb="208"/>
