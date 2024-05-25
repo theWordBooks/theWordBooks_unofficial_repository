@@ -1,4 +1,0 @@
-<old>
-	
-	<module identifier="twsneak-PEEK" type="Core" abbr="theWord Sneak-Peek Version (Changelog Only - README FIRST)" title="theWord Sneak-Peek Version (Changelog Only - README FIRST)" author="Stergiou, Costas; Koehn, Jonathan; Terra, Rubio" lang="eng" url="core/tw-info.gbk.twzip" descrurl="core/twsneak-peek-book-only.htm" vermajor="1" verminor="92" verdate="2024-05-25" cur="$" dlsizekb="7492"/>
-</old>
