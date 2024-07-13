@@ -13,8 +13,8 @@
 	
 	
 	<module identifier="dgloss1" type="Glosses" abbr="theWord Greek Glosses" title="Greek Glosses" author="Stephen; Panagiotis" lang="eng" url="glosses/theWord Greek Glosses.dct.twzip" descrurl="glosses/theWord Greek Glosses.htm" vermajor="1" verminor="0" verdate="2024-07-13" cur="$" dlsizekb="22783"/>	
-	<module identifier="dgloss2" type="Glosses" abbr="theWord Hebrew Glosses" title="Hebrew Glosses" author="Wong, Eliran; Koehn, Jonathan" lang="eng" url="glosses/theWord hebrew Glosses.dct.twzip" descrurl="glosses/theWord Hebrew Glosses.htm" vermajor="1" verminor="0" verdate="2024-07-13" cur="$" dlsizekb="1494"/>	
-	<module identifier="dgloss3" type="Glosses" abbr="theWord Hebrew Glosses-No Grammar" title="Hebrew Glosses-No Grammar" author="Wong, Eliran; Koehn, Jonathan" lang="eng" url="glosses/theWord hebrew Glosses-ng.dct.twzip" descrurl="glosses/theWord Hebrew Glosses.htm" vermajor="1" verminor="0" verdate="2024-07-13" cur="$" dlsizekb="1482"/>
+	<module identifier="dgloss2" type="Glosses" abbr="theWord Hebrew Glosses" title="Hebrew Glosses" author="Wong, Eliran; Koehn, Jonathan" lang="eng" url="glosses/theWord Hebrew Glosses.dct.twzip" descrurl="glosses/theWord Hebrew Glosses.htm" vermajor="1" verminor="0" verdate="2024-07-13" cur="$" dlsizekb="1494"/>	
+	<module identifier="dgloss3" type="Glosses" abbr="theWord Hebrew Glosses-No Grammar" title="Hebrew Glosses-No Grammar" author="Wong, Eliran; Koehn, Jonathan" lang="eng" url="glosses/theWord Hebrew Glosses-ng.dct.twzip" descrurl="glosses/theWord Hebrew Glosses.htm" vermajor="1" verminor="0" verdate="2024-07-13" cur="$" dlsizekb="1482"/>
 
 	
 	
