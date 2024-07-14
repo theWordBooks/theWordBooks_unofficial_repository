@@ -18,8 +18,8 @@
 
 	
 	
-	<module identifier="GreekWordToLemDatabase1" type="Database" abbr="Ancient Biblical Greek Database" title="Ancient Biblical Greek Database" author="Stephen; Panagiotis" lang="eng" url="twdb/Ancient Biblical Greek Database-encrypted.twzip" descrurl="twdb/Ancient Biblical Database.htm" vermajor="1" verminor="0" verdate="2024-07-13" cur="$" dlsizekb="4541"/>	
-	<module identifier="HebrewWordToLemDatabase1" type="Database" abbr="Ancient Biblical Hebrew Database" title="Ancient Biblical Hebrew Database" author="Wong, Eliran; Koehn, Jonathan" lang="eng" url="twdb/Ancient Biblical Hebrew Database-encrypted.twzip" descrurl="twdb/Ancient Biblical Database.htm" vermajor="1" verminor="0" verdate="2024-07-13" cur="$" dlsizekb="4257"/>	
+	<module identifier="GreekWordToLemDatabase1" type="Database" abbr="Ancient Biblical Greek Database" title="Ancient Biblical Greek Database" author="Stephen; Panagiotis" lang="eng" url="twdb/Ancient Biblical Greek Database-encrypted.twzip" descrurl="twdb/Ancient Biblical Database.htm" vermajor="1" verminor="0" verdate="2024-06-11" cur="$" dlsizekb="4541"/>	
+	<module identifier="HebrewWordToLemDatabase1" type="Database" abbr="Ancient Biblical Hebrew Database" title="Ancient Biblical Hebrew Database" author="Wong, Eliran; Koehn, Jonathan" lang="eng" url="twdb/Ancient Biblical Hebrew Database-encrypted.twzip" descrurl="twdb/Ancient Biblical Database.htm" vermajor="1" verminor="0" verdate="2024-07-11" cur="$" dlsizekb="4257"/>	
 	
 	
 
