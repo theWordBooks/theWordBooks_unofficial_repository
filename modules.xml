@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <modules source="theWordLabs Repository" baseurl="https://raw.githubusercontent.com/theWordBooks/theWordBooks_unofficial_repository/main/">	
-	<module identifier="twsneak-peek" type="Core Sneak-Peek" abbr="theWord Sneak-Peek Book (Changelog Only - README FIRST)" title="theWord Sneak-Peek Version (Changelog Only - README FIRST)" author="Stergiou, Costas; Koehn, Jonathan; Terra, Rubio" lang="eng" url="core/tw-info.gbk.twzip" descrurl="core/tw-info.htm" vermajor="1535" verminor="357" verdate="2025-04-10" cur="$" dlsizekb="1831"/>
+	<module identifier="twsneak-peek" type="Core Sneak-Peek" abbr="theWord Sneak-Peek Book ONLY (Changelog Only - README FIRST)" title="theWord Sneak-Peek Version (Changelog Only - README FIRST)" author="Stergiou, Costas; Koehn, Jonathan; Terra, Rubio" lang="eng" url="core/tw-info.gbk.twzip" descrurl="core/tw-info.htm" vermajor="1535" verminor="361" verdate="2025-04-11" cur="$" dlsizekb="1831"/>
 	<module identifier="theword-sp" type="Core Sneak-Peek" abbr="theWord7" title="theWord 7 Sneak Peek (NOTE! First time users please read the About information on the Left.)" author="Stergiou, Costas; Koehn, Jonathan; Terra, Rubio" lang="eng" url="core/theword-sneak-peek.twzip" descrurl="core/theword-sneak-peek.htm" vermajor="1535" verminor="361" verdate="2025-04-11" cur="$" dlsizekb="26265"/>
 
 	
