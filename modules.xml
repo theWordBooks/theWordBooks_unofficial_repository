@@ -20,8 +20,8 @@
 
 	
 	
-	<module identifier="GreekWordToLemDatabase1" type="Database" abbr="Ancient Biblical Greek Database" title="Ancient Biblical Greek Database" author="Stephen; Panagiotis" lang="grk" url="twdb/Ancient Biblical Greek Database-encrypted.twzip" descrurl="twdb/Ancient Biblical Database.htm" vermajor="2" verminor="0" verdate="2025-05-22" requires_version="7.0.0.1547" cur="$" dlsizekb="3430"/>	
-	<module identifier="HebrewWordToLemDatabase1" type="Database" abbr="Ancient Biblical Hebrew Database" title="Ancient Biblical Hebrew Database" author="Wong, Eliran; Koehn, Jonathan" lang="heb" url="twdb/Ancient Biblical Hebrew Database-encrypted.twzip" descrurl="twdb/Ancient Biblical Database.htm" vermajor="3" verminor="0" verdate="2025-05-22" requires_version="7.0.0.1547" cur="$" dlsizekb="4257"/>	
+	<module identifier="GreekWordToLemDatabase1" type="Database" abbr="Ancient Biblical Greek Database" title="Ancient Biblical Greek Database" author="Stephen; Panagiotis" lang="grk" url="twdb/Ancient Biblical Greek Database.twzip" descrurl="twdb/Ancient Biblical Database.htm" vermajor="2" verminor="0" verdate="2025-05-22" requires_version="7.0.0.1547" cur="$" dlsizekb="3430"/>	
+	<module identifier="HebrewWordToLemDatabase1" type="Database" abbr="Ancient Biblical Hebrew Database" title="Ancient Biblical Hebrew Database" author="Wong, Eliran; Koehn, Jonathan" lang="heb" url="twdb/Ancient Biblical Hebrew Database.twzip" descrurl="twdb/Ancient Biblical Database.htm" vermajor="3" verminor="0" verdate="2025-05-22" requires_version="7.0.0.1547" cur="$" dlsizekb="4257"/>	
 	
 	
 
