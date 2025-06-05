@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <modules source="theWordLabs Repository" baseurl="https://raw.githubusercontent.com/theWordBooks/theWordBooks_unofficial_repository/main/">	
 	<module identifier="twsneak-peek" type="Core" abbr="theWord Changelog" title="theWord Changelog - README FIRST" author="Stergiou, Costas; Koehn, Jonathan; Terra, Rubio" lang="eng" url="core/tw-info.gbk.twzip" descrurl="core/tw-info.htm" vermajor="1554" verminor="405" verdate="2025-06-05" requires_version="3" cur="$" dlsizekb="1831"/>
-	<module identifier="theword-sp" type="Core" abbr="theWord7" title="theWord Sneak Peek (NOTE! First time users please read the About information on the Left.)" author="Stergiou, Costas; Koehn, Jonathan; Terra, Rubio" lang="eng" url="core/theword-sneak-peek.twzip" descrurl="core/theword-sneak-peek.htm" vermajor="1553" verminor="404" verdate="2025-06-04" requires_version="6.0.1.1534" cur="$" dlsizekb="24862"/>
+	<module identifier="theword-sp" type="Core" abbr="theWord7" title="theWord Sneak Peek (NOTE! First time users please read the About information on the Left.)" author="Stergiou, Costas; Koehn, Jonathan; Terra, Rubio" lang="eng" url="core/theword-sneak-peek.twzip" descrurl="core/theword-sneak-peek.htm" vermajor="1554" verminor="405" verdate="2025-06-05" requires_version="6.0.1.1534" cur="$" dlsizekb="24862"/>
 
 	<module identifier="exe.SkinEditor" type="Skins" abbr="Skin Editor" title="Skin Editor" author="Lee, Robert; Koehn, Jonathan" lang="eng" url="skin/SkinEditor.twzip" descrurl="skin/skin-editor.htm" vermajor="2" verminor="3" verdate="2025-06-05" cur="$" dlsizekb="2032"/>	
 
