@@ -3,6 +3,7 @@
 	<module identifier="theword-sp" type="Core" abbr="theWord7" title="theWord Sneak Peek" author="Stergiou, Costas; Koehn, Jonathan; Terra, Rubio" lang="eng" url="core/theword-sneak-peek.twzip" descrurl="core/theword-sneak-peek.htm" vermajor="1607" verminor="620" verdate="2026-01-24" requires_version="6.0.1.1534" cur="$" dlsizekb="25540"/>
 	<module identifier="theword-sp64" type="Core" abbr="theWord7" title="theWord64 Sneak Peek" author="Stergiou, Costas; Koehn, Jonathan; Terra, Rubio" lang="eng" url="core/theword.64-sneak-peek.twzip" descrurl="core/theword-sneak-peek.htm" vermajor="1607" verminor="620" verdate="2026-01-24" requires_version="6.0.1.1534" cur="$" dlsizekb="28164"/>
 	
+	
 	<module identifier="morph.rmac" type="Morphology Helper" abbr="rmac-morph-helper" title="RMAC Morphology Helper" author="Koehn, Jonathan; Terra, Rubio" lang="eng" url="morph/rmac.morph.twzip" descrurl="morph/theword-sneak-peek.htm" vermajor="1" verminor="0" verdate="2025-12-12" requires_version="7.6.0.1606" cur="$" dlsizekb="14"/>
 	<module identifier="morph.lxx-pmac" type="Morphology Helper" abbr="lxx-pmac-morph-helper" title="LXX-PMAC Morphology Helper" author="Koehn, Jonathan; Terra, Rubio" lang="eng" url="morph/lxx-pmac.morph.twzip" descrurl="morph/theword-sneak-peek.htm" vermajor="1" verminor="0" verdate="2025-12-12" requires_version="7.6.0.1606" cur="$" dlsizekb="22"/>
 	<module identifier="morph.bsb" type="Morphology Helper" abbr="bsb-morph-helper" title="BSB Morphology Helper" author="Koehn, Jonathan; Terra, Rubio" lang="eng" url="morph/bsb.morph.twzip" descrurl="morph/theword-sneak-peek.htm" vermajor="1" verminor="0" verdate="2025-12-12" requires_version="7.6.0.1606" cur="$" dlsizekb="12"/>
@@ -17,6 +18,10 @@
 	<module identifier="gesLex" type="Dictionaries" abbr="Gesenius' Lexicon" title="Gesenius' Lexicon" author="Friedrich Wilhelm Gesenius" lang="eng" url="dictionaries/Gesenius' Lexicon.dct.twm.twzip" descrurl="dictionaries/Gesenius.html" vermajor="1" verminor="0" verdate="2020-08-20" cur="$" dlsizekb="6076"/>
 	<module identifier="d46" type="Dictionaries" abbr="uBDB" title="The Brown-Driver-Briggs Hebrew and English Lexicon (Original Title: A Hebrew and English lexicon of the Old Testament)" author="Brown, Francis, 1849-1916; Robinson, Edward, 1794-1863; Driver, S. R. (Samuel Rolles), 1846-1914; Briggs, Charles A. (Charles Augustus), 1841-1913; Gesenius, Wilhelm, 1786-1842. Hebräisch-deutsches Handwörterbuch" lang="eng" url="dictionaries/unabridged-BDB-Hebrew-lexicon.dct.twzip" descrurl="dictionaries/unabridgedBDBHebrewlexicon.html" vermajor="0" verminor="2" verdate="2023-11-30" cur="$" dlsizekb="42254"/>
 	
+	<!--
+	<module identifier="theword-android-sp" type="App" abbr="theWord8" title="theWord Android Sneak Peek" author="Stergiou, Costas; Koehn, Jonathan; Terra, Rubio" lang="eng" url="core/theword-android-sneak-peek.apk" descrurl="app/theword-android-sneak-peek.htm" vermajor="0" verminor="5" verdate="2026-02-25" requires_version="8.0.0.0" cur="$" dlsizekb="25540"/>
+	-->
+
 			
 </modules>
 
