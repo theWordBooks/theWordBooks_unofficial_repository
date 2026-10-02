@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Style-Type" content="text/css">
 <style type="text/css">
 body {
- margin: 10px 10px 10px 10px;
+ margin: 12px 14px 12px 14px;
  background-color: canvas;
  direction: ltr;
 }
@@ -24,19 +24,88 @@ span.rvts1
 {
  font-weight: bold;
 }
+h1
+{
+ font-size: 15pt;
+ text-align: center;
+ margin: 0px 0px 6px 0px;
+}
+h2
+{
+ font-size: 11pt;
+ margin: 0px 0px 5px 0px;
+}
+.intro
+{
+ text-align: center;
+ margin: 0px 8px 12px 8px;
+}
+.panel
+{
+ width: 100%;
+ border: 1px solid gray;
+ border-collapse: collapse;
+ margin: 0px 0px 10px 0px;
+}
+.panel td
+{
+ padding: 9px 11px 9px 11px;
+ vertical-align: top;
+}
+.package-list
+{
+ margin: 5px 0px 0px 20px;
+}
+.package-list li
+{
+ margin: 2px 0px 2px 0px;
+}
+.note
+{
+ border-left: 4px solid gray;
+ padding: 2px 0px 2px 9px;
+ margin: 10px 2px 0px 2px;
+}
 /* ========== Para Styles ========== */
 p,ul,ol /* Paragraph Style */
 {
  text-align: left;
  text-indent: 0px;
  padding: 0px 0px 0px 0px;
- margin: 0px 0px 0px 0px;
+ margin: 0px 0px 5px 0px;
 }
 li.noindent { margin-left: 0; padding-left: 0; }
 </style>
 </head>
 <body>
-<p><span class="rvts1">Morphology Helper</span></p>
-<p>This is a helper file for the Inline Helper and Morphology Builder. These are premium features.</p>
-<p><br></p>
+<h1>Morphology Helper Definitions</h1>
+<p class="intro">Add guided morphology choices to the Inline Helper and Morphology Builder in theWord 7.6.1.1611 or newer.</p>
+
+<table class="panel" summary="Morphology helpers available to all users">
+<tr><td>
+<h2>General morphology helpers</h2>
+<p>These encrypted <b>.morphx</b> definitions can be used without a purchased-module unlock:</p>
+<ul class="package-list">
+<li><b>BSB</b> &mdash; Berean Standard Bible morphology</li>
+<li><b>LXX-PMAC</b> &mdash; Septuagint parsing morphology</li>
+<li><b>RMAC</b> &mdash; Robinson Greek morphology</li>
+</ul>
+</td></tr>
+</table>
+
+<table class="panel" summary="Morphology helpers requiring a matching purchased Bible">
+<tr><td>
+<h2>Helpers for purchased Bibles</h2>
+<p>These test packages work only when their matching Bible is validly unlocked:</p>
+<ul class="package-list">
+<li><b>BHS5/ETCBC</b> &mdash; for the BHS5/ETCBC Bible</li>
+<li><b>WHM</b> &mdash; Westminster Hebrew Morphology</li>
+</ul>
+<p>It is safe for other users to install them. theWord simply leaves a protected definition inactive when the corresponding Bible is unavailable. Installing a helper does not unlock or include the purchased Bible.</p>
+</td></tr>
+</table>
+
+<p><b>Language support:</b> Each morphology system now has one canonical structural definition. theWord translates its shared labels through the normal program language files, while retaining English fallback labels.</p>
+
+<p class="note"><b>For earlier testers:</b> Plain <b>.morph</b> files are no longer supported. Install the replacement <b>.morphx</b> packages shown here. The protected BHS5/ETCBC and WHM helpers are temporarily available in this test repository; final releases will include them with their corresponding Bible installers.</p>
 </body></html>
