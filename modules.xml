@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <modules source="theWordLabs Repository" baseurl="https://raw.githubusercontent.com/theWordBooks/theWordBooks_unofficial_repository/main/">	
-	<module identifier="theword-sp" type="Core" abbr="theWord7" title="theWord Sneak Peek" author="Stergiou, Costas; Koehn, Jonathan; Terra, Rubio" lang="eng" url="core/theword-sneak-peek.twzip" descrurl="core/theword-sneak-peek.htm" vermajor="1611" verminor="659" verdate="2026-10-03" requires_version="6.0.1.1534" cur="$" dlsizekb="28533"/>
-	<module identifier="theword-sp64" type="Core" abbr="theWord7" title="theWord64 Sneak Peek" author="Stergiou, Costas; Koehn, Jonathan; Terra, Rubio" lang="eng" url="core/theword.64-sneak-peek.twzip" descrurl="core/theword-sneak-peek.htm" vermajor="1611" verminor="659" verdate="2026-10-03" requires_version="6.0.1.1534" cur="$" dlsizekb="30138"/>
+	<module identifier="theword-sp" type="Core" abbr="theWord7" title="theWord Sneak Peek" author="Stergiou, Costas; Koehn, Jonathan; Terra, Rubio" lang="eng" url="core/theword-sneak-peek.twzip" descrurl="core/theword-sneak-peek.htm" vermajor="1611" verminor="660" verdate="2026-10-04" requires_version="6.0.1.1534" cur="$" dlsizekb="28532"/>
+	<module identifier="theword-sp64" type="Core" abbr="theWord7" title="theWord64 Sneak Peek" author="Stergiou, Costas; Koehn, Jonathan; Terra, Rubio" lang="eng" url="core/theword.64-sneak-peek.twzip" descrurl="core/theword-sneak-peek.htm" vermajor="1611" verminor="660" verdate="2026-10-04" requires_version="6.0.1.1534" cur="$" dlsizekb="30141"/>
 	
 	
 	<module identifier="morph.rmac" type="Morphology Helper" abbr="rmac-morph-helper" title="RMAC Morphology Helper" author="Koehn, Jonathan; Terra, Rubio" lang="eng" url="morph/rmac.morphx.twzip" descrurl="morph/morph.htm" vermajor="2" verminor="0" verdate="2026-10-01" requires_version="7.6.1.1611" cur="$" dlsizekb="14"/>
