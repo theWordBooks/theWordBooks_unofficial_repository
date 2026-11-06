@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <modules source="theWordLabs Repository" baseurl="https://raw.githubusercontent.com/theWordBooks/theWordBooks_unofficial_repository/main/">	
-	<module identifier="theword-sp" type="Core" abbr="theWord7" title="theWord Sneak Peek" author="Stergiou, Costas; Koehn, Jonathan; Terra, Rubio" lang="eng" url="core/theword-sneak-peek.twzip" descrurl="core/theword-sneak-peek.htm" vermajor="1618" verminor="680" verdate="2026-11-05" requires_version="6.0.1.1534" cur="$" dlsizekb="29846"/>
-	<module identifier="theword-sp64" type="Core" abbr="theWord7" title="theWord64 Sneak Peek" author="Stergiou, Costas; Koehn, Jonathan; Terra, Rubio" lang="eng" url="core/theword.64-sneak-peek.twzip" descrurl="core/theword-sneak-peek.htm" vermajor="1618" verminor="680" verdate="2026-11-05" requires_version="6.0.1.1534" cur="$" dlsizekb="32369"/>
+	<module identifier="theword-sp" type="Core" abbr="theWord7" title="theWord Sneak Peek" author="Stergiou, Costas; Koehn, Jonathan; Terra, Rubio" lang="eng" url="core/theword-sneak-peek.twzip" descrurl="core/theword-sneak-peek.htm" vermajor="1619" verminor="681" verdate="2026-11-06" requires_version="6.0.1.1534" cur="$" dlsizekb="29847"/>
+	<module identifier="theword-sp64" type="Core" abbr="theWord7" title="theWord64 Sneak Peek" author="Stergiou, Costas; Koehn, Jonathan; Terra, Rubio" lang="eng" url="core/theword.64-sneak-peek.twzip" descrurl="core/theword-sneak-peek.htm" vermajor="1619" verminor="681" verdate="2026-11-06" requires_version="6.0.1.1534" cur="$" dlsizekb="32369"/>
 	
 	
 	
